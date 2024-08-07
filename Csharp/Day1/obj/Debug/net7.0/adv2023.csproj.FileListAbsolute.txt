@@ -1,0 +1,15 @@
+/home/skullamortis/Scripts/csharp/adv2023/bin/Debug/net7.0/adv2023
+/home/skullamortis/Scripts/csharp/adv2023/bin/Debug/net7.0/adv2023.deps.json
+/home/skullamortis/Scripts/csharp/adv2023/bin/Debug/net7.0/adv2023.runtimeconfig.json
+/home/skullamortis/Scripts/csharp/adv2023/bin/Debug/net7.0/adv2023.dll
+/home/skullamortis/Scripts/csharp/adv2023/bin/Debug/net7.0/adv2023.pdb
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/adv2023.csproj.AssemblyReference.cache
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/adv2023.GeneratedMSBuildEditorConfig.editorconfig
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/adv2023.AssemblyInfoInputs.cache
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/adv2023.AssemblyInfo.cs
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/adv2023.csproj.CoreCompileInputs.cache
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/adv2023.dll
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/refint/adv2023.dll
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/adv2023.pdb
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/adv2023.genruntimeconfig.cache
+/home/skullamortis/Scripts/csharp/adv2023/obj/Debug/net7.0/ref/adv2023.dll

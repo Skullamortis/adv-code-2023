@@ -1,0 +1,15 @@
+/home/skullamortis/Scripts/csharp/adv2023/Day1/bin/Debug/net7.0/Day1
+/home/skullamortis/Scripts/csharp/adv2023/Day1/bin/Debug/net7.0/Day1.deps.json
+/home/skullamortis/Scripts/csharp/adv2023/Day1/bin/Debug/net7.0/Day1.runtimeconfig.json
+/home/skullamortis/Scripts/csharp/adv2023/Day1/bin/Debug/net7.0/Day1.dll
+/home/skullamortis/Scripts/csharp/adv2023/Day1/bin/Debug/net7.0/Day1.pdb
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/Day1.csproj.AssemblyReference.cache
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/Day1.GeneratedMSBuildEditorConfig.editorconfig
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/Day1.AssemblyInfoInputs.cache
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/Day1.AssemblyInfo.cs
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/Day1.csproj.CoreCompileInputs.cache
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/Day1.dll
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/refint/Day1.dll
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/Day1.pdb
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/Day1.genruntimeconfig.cache
+/home/skullamortis/Scripts/csharp/adv2023/Day1/obj/Debug/net7.0/ref/Day1.dll

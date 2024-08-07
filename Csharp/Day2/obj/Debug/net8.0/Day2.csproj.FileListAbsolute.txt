@@ -1,0 +1,14 @@
+/home/skullamortis/Scripts/csharp/adv2023/Day2/bin/Debug/net8.0/Day2
+/home/skullamortis/Scripts/csharp/adv2023/Day2/bin/Debug/net8.0/Day2.deps.json
+/home/skullamortis/Scripts/csharp/adv2023/Day2/bin/Debug/net8.0/Day2.runtimeconfig.json
+/home/skullamortis/Scripts/csharp/adv2023/Day2/bin/Debug/net8.0/Day2.dll
+/home/skullamortis/Scripts/csharp/adv2023/Day2/bin/Debug/net8.0/Day2.pdb
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/Day2.AssemblyInfoInputs.cache
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/Day2.AssemblyInfo.cs
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/Day2.csproj.CoreCompileInputs.cache
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/Day2.dll
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/refint/Day2.dll
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/Day2.pdb
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/Day2.genruntimeconfig.cache
+/home/skullamortis/Scripts/csharp/adv2023/Day2/obj/Debug/net8.0/ref/Day2.dll

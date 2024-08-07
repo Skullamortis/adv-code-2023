@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0KbahFqsVwaeRCeYMdnRwd98I+o4YqDYbtax6D2Jz3TBfqEu+H1zhCdSjXRyBlBWbh09UjqQ/CKhfy9Dh4l+Q==",
+  "success": true,
+  "projectFilePath": "/home/skullamortis/Scripts/csharp/adv2023/Day1/Day1.csproj",
+  "expectedPackageFiles": [
+    "/home/skullamortis/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
